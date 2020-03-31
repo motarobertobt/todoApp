@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "webpack": "^1.14.0",
-    "webpack-dev-server": "^1.16.2"
+    "webpack-dev-server": "^3.1.11"
   },
   "devDependencies": {
     "axios": "^0.15.3",
